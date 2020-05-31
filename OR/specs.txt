@@ -1,0 +1,11 @@
+03/10/2020, 12:38:54 
+recom-seats.py 
+50000 
+1 
+/cluster/tufts/mggg/tweigh01/basic-recom/OR 
+5 
+SEN16 
+SEN16D 
+SEN16R 
+TOTPOP 
+OR_precincts/OR_precincts.shp 

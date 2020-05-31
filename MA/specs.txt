@@ -1,0 +1,11 @@
+03/10/2020, 13:26:31 
+recom-seats.py 
+50000 
+1 
+/cluster/tufts/mggg/tweigh01/basic-recom/MA 
+9 
+PRES12 
+PRES12D 
+PRES12R 
+TOTPOP 
+massachusetts.json 

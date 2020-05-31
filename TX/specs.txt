@@ -1,0 +1,11 @@
+03/10/2020, 13:16:44 
+recom-seats.py 
+50000 
+1 
+/cluster/tufts/mggg/tweigh01/basic-recom/TX 
+36 
+PRES16 
+PRES16D 
+PRES16R 
+TOTPOP 
+texas.json 

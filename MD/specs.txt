@@ -1,0 +1,11 @@
+03/10/2020, 13:10:43 
+recom-seats.py 
+50000 
+1 
+/cluster/tufts/mggg/tweigh01/basic-recom/MD 
+8 
+PRES16 
+PRES16D 
+PRES16R 
+TOTPOP 
+MD_connected.json 

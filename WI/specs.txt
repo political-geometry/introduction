@@ -1,0 +1,11 @@
+03/10/2020, 12:35:06 
+recom-seats.py 
+50000 
+1 
+/cluster/tufts/mggg/tweigh01/basic-recom/WI 
+8 
+SEN16 
+USSDEM16 
+USSREP16 
+PERSONS 
+WI_wards_12_16_edges_added.json 

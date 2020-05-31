@@ -1,0 +1,11 @@
+03/10/2020, 12:27:57 
+recom-seats.py 
+50000 
+1 
+/cluster/tufts/mggg/tweigh01/basic-recom/NC 
+13 
+PRES16 
+EL16G_PR_D 
+EL16G_PR_R 
+TOTPOP 
+NC_VTD/NC_VTD.shp 
